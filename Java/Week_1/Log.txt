@@ -1,0 +1,8 @@
+Week 1 - Java Lab Log
+========================
+
+Day 1 - July 10, 2026
+File: Day1Veriables.py
+Topic: Variables, print() and type()
+Status: Completed
+
