@@ -6,3 +6,9 @@ File: day1_veriables.py
 Topic: Variables, print() and type()
 Status: Completed
 
+Day 2 - July 11, 2026
+File: day2_type_casting.py
+Topic: Type casting - int(), float(), str()
+Notes: Learned that input() always returns a string, so it must be
+       cast to int/float before doing math on it.
+Status: Completed

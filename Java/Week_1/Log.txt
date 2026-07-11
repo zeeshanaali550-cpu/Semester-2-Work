@@ -2,7 +2,16 @@ Week 1 - Java Lab Log
 ========================
 
 Day 1 - July 10, 2026
-File: Day1Veriables.py
+File: Day1Veriables.java
 Topic: Variables, print() and type()
 Status: Completed
 
+Day 2 - July 11, 2026
+File: Day2TypeCasting.java
+Topic: Type casting - implicit vs explicit casting
+Notes: Implicit casting happens automatically (small type -> big type).
+       Explicit casting needs manual (type) syntax (big type -> small type),
+       and can lose data (e.g. double 99.99 -> int 99, not rounded).
+       Used Integer.parseInt() for String to int, and String.valueOf()
+       for int to String.
+Status: Completed
