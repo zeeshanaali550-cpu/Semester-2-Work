@@ -12,3 +12,10 @@ Topic: Type casting - int(), float(), str()
 Notes: Learned that input() always returns a string, so it must be
        cast to int/float before doing math on it.
 Status: Completed
+
+Day 3 - July 12, 2026
+File: day3_arithmetic_operators.py
+Topic: Arithmetic operators - +, -, *, /, %, **
+Notes: Division (/) always returns a decimal in Python, even if both
+       numbers are whole numbers. ** is used for exponents (power).
+Status: Completed
