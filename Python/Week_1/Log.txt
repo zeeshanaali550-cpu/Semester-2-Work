@@ -19,3 +19,11 @@ Topic: Arithmetic operators - +, -, *, /, %, **
 Notes: Division (/) always returns a decimal in Python, even if both
        numbers are whole numbers. ** is used for exponents (power).
 Status: Completed
+
+Day 4 - July 17, 2026
+File: day4_comparison_operators.py
+Topic: Comparison operators: ==, !=, >, <, >=, <=
+Notes: Python compares strings correctly with == (checks actual text content).
+       Important: = is assignment, == is comparison - common bug if mixed up.
+Status: Completed
+
