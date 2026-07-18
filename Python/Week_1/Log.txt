@@ -27,3 +27,10 @@ Notes: Python compares strings correctly with == (checks actual text content).
        Important: = is assignment, == is comparison - common bug if mixed up.
 Status: Completed
 
+Day 5 - July 18, 2026
+File: day5_logical_operators.py
+Topic: Logical operators - and, or, not
+Notes: 'and' needs both conditions true. 'or' needs at least one true.
+       'not' flips True/False. Python uses word operators, unlike Java
+       which uses symbols (&&, ||, !).
+Status: Completed

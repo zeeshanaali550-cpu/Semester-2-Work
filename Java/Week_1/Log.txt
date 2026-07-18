@@ -36,3 +36,10 @@ Notes: For numbers, == works normally. But for Strings, == compares memory
        correctly compare String content in Java.
 Status: Completed
 
+Day 5 - July 18, 2026
+File: Day5LogicalOperators.java
+Topic: Logical operators - &&, ||, !
+Notes: Same logic as Python's and/or/not, but Java uses symbols instead
+       of words. && needs both true, || needs at least one true,
+       ! flips true/false.
+Status: Completed
