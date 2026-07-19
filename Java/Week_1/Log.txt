@@ -43,3 +43,11 @@ Notes: Same logic as Python's and/or/not, but Java uses symbols instead
        of words. && needs both true, || needs at least one true,
        ! flips true/false.
 Status: Completed
+
+Day 6 - July 19, 2026
+File: Day6IfElse.java
+Topic: If-else statements - if, else if, else, nested if
+Notes: Java uses "else if" (two words) instead of Python's "elif".
+       Curly braces {} define each block instead of indentation.
+       Nested if works the same concept as Python, just wrapped in {}.
+Status: Completed

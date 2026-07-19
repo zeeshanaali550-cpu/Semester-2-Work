@@ -34,3 +34,11 @@ Notes: 'and' needs both conditions true. 'or' needs at least one true.
        'not' flips True/False. Python uses word operators, unlike Java
        which uses symbols (&&, ||, !).
 Status: Completed
+
+Day 6 - July 19, 2026
+File: day6_if_else.py
+Topic: If-else statements - if, elif, else, nested if
+Notes: elif checks another condition only if previous ones were false.
+       Nested if means an if statement inside another if block, useful
+       for checking a second condition only when the first is true.
+Status: Completed
