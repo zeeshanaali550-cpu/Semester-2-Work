@@ -42,3 +42,12 @@ Notes: elif checks another condition only if previous ones were false.
        Nested if means an if statement inside another if block, useful
        for checking a second condition only when the first is true.
 Status: Completed
+
+Day 7 - July 20, 2026
+File: day7_loops.py
+Topic: Loops - for, while, range(), break, continue
+Notes: range(5) goes 0-4. range(start,stop,step) controls the sequence.
+       while loops need manual variable update or they run forever
+       (infinite loop). break exits the loop completely, continue
+       skips just the current iteration.
+Status: Completed - Week 1 finished

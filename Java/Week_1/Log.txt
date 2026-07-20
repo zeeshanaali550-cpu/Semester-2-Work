@@ -51,3 +51,12 @@ Notes: Java uses "else if" (two words) instead of Python's "elif".
        Curly braces {} define each block instead of indentation.
        Nested if works the same concept as Python, just wrapped in {}.
 Status: Completed
+
+Day 7 - July 20, 2026
+File: Day7Loops.java
+Topic: Loops - for, while, for-each, break, continue
+Notes: Standard for loop needs (start; condition; increment).
+       for-each loop (for (String fruit : fruits)) simplifies looping
+       through arrays. while needs manual increment or infinite loop.
+       break/continue work the same as Python conceptually.
+Status: Completed - Week 1 finished
