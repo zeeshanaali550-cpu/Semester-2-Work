@@ -1,0 +1,11 @@
+Day 1 - July 21, 2026
+File: Day1Functions.java
+Topic: Methods - static methods, parameters, return values, methods
+       calling methods
+Notes: Java methods must declare a return type (int, void, String, etc.)
+       or "void" if nothing is returned. Java methods can only return
+       ONE value (unlike Python's multiple return). Called "methods"
+       not "functions" since they live inside a class. Default parameter
+       values are not supported directly in Java.
+Status: Completed - Week 2 Day 1
+
