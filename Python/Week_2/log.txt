@@ -1,0 +1,17 @@
+Day 1 - July 21, 2026
+File: day1_functions.py
+Topic: Functions - def, parameters, return values, default parameters,
+       multiple return values, functions calling functions
+Notes: Python functions don't need a declared return type. Can return
+       multiple values at once (as a tuple). Default parameter values
+       supported directly (name="Guest").
+Status: Completed - Week 2 Day 1
+
+Day 2 - July 22, 2026
+File: day2_lists.py
+Topic: Lists - creating, indexing, append, insert, remove, pop, len,
+       looping, in operator, sort
+Notes: Python lists are resizable (can grow/shrink) and can hold mixed
+       data types. Negative indexing (fruits[-1]) accesses from the end.
+Status: Completed - Week 2 Day 2
+

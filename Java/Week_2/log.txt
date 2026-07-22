@@ -9,3 +9,12 @@ Notes: Java methods must declare a return type (int, void, String, etc.)
        values are not supported directly in Java.
 Status: Completed - Week 2 Day 1
 
+Day 2 - July 22, 2026
+File: Day2Arrays.java
+Topic: Arrays - creating, indexing, length, looping (for-each), sorting
+Notes: Java arrays have a FIXED size once created - cannot add/remove
+       elements like Python lists. Must declare one type only.
+       .length is a property (no parentheses), unlike Python's len().
+       Sorting requires java.util.Arrays.sort(). For resizable
+       collections, Java uses ArrayList instead (separate topic).
+Status: Completed - Week 2 Day 2
