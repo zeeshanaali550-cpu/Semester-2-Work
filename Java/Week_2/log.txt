@@ -18,3 +18,15 @@ Notes: Java arrays have a FIXED size once created - cannot add/remove
        Sorting requires java.util.Arrays.sort(). For resizable
        collections, Java uses ArrayList instead (separate topic).
 Status: Completed - Week 2 Day 2
+
+Day 3 - July 23, 2026
+File: Day3HashMap.java
+Topic: HashMap - put(), get(), remove(), containsKey(), looping with
+       keySet()
+Notes: HashMap is Java's version of Python dictionaries, needs
+       import java.util.HashMap. Must declare key/value types,
+       e.g. HashMap<String, String>. Use .put() to add/update,
+       .get() to retrieve, .remove() to delete, .containsKey() to check
+       existence. Loop using keySet() since there's no direct .items()
+       equivalent.
+Status: Completed - Week 2 Day 3

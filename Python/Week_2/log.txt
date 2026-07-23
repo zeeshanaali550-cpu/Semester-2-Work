@@ -15,3 +15,10 @@ Notes: Python lists are resizable (can grow/shrink) and can hold mixed
        data types. Negative indexing (fruits[-1]) accesses from the end.
 Status: Completed - Week 2 Day 2
 
+Day 3 - July 23, 2026
+File: day3_dictionaries.py
+Topic: Dictionaries - key-value pairs, get(), update, delete, looping
+       with .items(), in operator, keys(), values()
+Notes: Dictionaries store data as key:value pairs. .get() is safer than
+       dict[key] since it won't crash if the key doesn't exist.
+Status: Completed - Week 2 Day 3
