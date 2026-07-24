@@ -22,3 +22,14 @@ Topic: Dictionaries - key-value pairs, get(), update, delete, looping
 Notes: Dictionaries store data as key:value pairs. .get() is safer than
        dict[key] since it won't crash if the key doesn't exist.
 Status: Completed - Week 2 Day 3
+
+Day 4 - July 24, 2026
+File: day4_exception_handling.py
+Topic: Exception handling - try, except, else, finally, catching
+       specific errors (ValueError, ZeroDivisionError) vs generic
+       Exception
+Notes: else block runs only if no exception occurred. finally always
+       runs, used for cleanup code. Catching specific exceptions first
+       is better practice than catching everything generically.
+Status: Completed - Week 2 Day 4
+

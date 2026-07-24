@@ -30,3 +30,13 @@ Notes: HashMap is Java's version of Python dictionaries, needs
        existence. Loop using keySet() since there's no direct .items()
        equivalent.
 Status: Completed - Week 2 Day 3
+
+Day 4 - July 24, 2026
+File: Day4ExceptionHandling.java
+Topic: Exception handling - try, catch, finally, ArithmeticException,
+       generic Exception, e.getMessage()
+Notes: Java has no 'else' block like Python (only try/catch/finally).
+       finally always runs regardless of exception. Use e.getMessage()
+       to get error details, unlike Python's str(e) or direct e print.
+Status: Completed - Week 2 Day 4
+
